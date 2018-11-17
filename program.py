@@ -1,1 +1,2 @@
-print("My first git_project!!!")
+# I am author!
+print("My first Git program!!!")
